@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ![Difa Nugraha](img/github-header-image.png)
 
 <!--
