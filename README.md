@@ -3,6 +3,7 @@
 <p align="left">
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=difaanug&show_icons=true&locale=en" alt="difaanug" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=difaanug&" alt="difaanug" /></p>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=difaanug&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=difaanug&" alt="Streak Stats" />
+</div>
