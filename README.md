@@ -5,7 +5,7 @@
     <td align="center">
       <img src="https://streak-stats.demolab.com?user=difaanug&theme=dark&hide_border=false" alt="GitHub Streak Stats"/>
     </td>
-    <td width="1000"></td> <!-- Spacer kolom tengah -->
+    <td width="700"></td> <!-- Spacer kolom tengah -->
     <td align="center">
       <img src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200" alt="Octocat Badge"/>
     </td>
