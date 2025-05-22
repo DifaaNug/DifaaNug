@@ -2,11 +2,13 @@
 
 <table>
   <tr>
-    <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=difaanug&theme=dark&hide_border=false" alt="GitHub Streak Stats"/>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com?user=difaanug&theme=dark&hide_border=false" alt="GitHub Streak Stats"/>
     </td>
-    <td>
-      <img src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200" height="200" alt="Banner"/>
+    <td width="30"></td> <!-- Spacer kolom tengah -->
+    <td align="center">
+      <img src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200" alt="Octocat Badge"/>
     </td>
   </tr>
 </table>
+
